@@ -3,7 +3,7 @@ var xStart;
 // Variable that represents the center Y-value of the canvas.
 var yStart;
 function setup() {
-  createCanvas(550, 550);
+  createCanvas(550,550);
   xStart = width/2;
   yStart = height/2;
 }
