@@ -1,3 +1,12 @@
+/* p5.js - Code Self Portrait
+  By Luis Sanchez
+
+  The following code will draw out a self portrait of myself by using simple shapes and curves
+  from the p5.js library.
+  
+  The self portrait is designed to always be centered towards the middle of the canvas, but making 
+  it larger than 550 seems to affect how the hair looks, still needs some tweaking with the angles. */
+
 // Variable that represents the center X-Value of the canvas.
 var xStart;
 // Variable that represents the center Y-value of the canvas.
